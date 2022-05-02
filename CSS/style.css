@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Red Rose', cursive;
+    background: rgba(0, 0, 0, 0.966);
+    background-size: cover;
+}
+
+.login-box{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.login-box h1{
+    font-family: 'Red Rose', cursive;
+    font-size: 1.1cm;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0px;
+    margin: 8px 0px;
+    border-bottom: 1px solid white;
+
+}
